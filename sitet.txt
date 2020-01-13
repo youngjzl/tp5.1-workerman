@@ -1,0 +1,24 @@
+array (
+  'id' => 5,
+  'name' => 'admin',
+  'password' => NULL,
+  'reg_time' => 0,
+  'ip_address' => '127.0.0.1',
+  'status' => 0,
+)
+array (
+  'id' => 5,
+  'name' => 'admin',
+  'password' => NULL,
+  'reg_time' => 0,
+  'ip_address' => '127.0.0.1',
+  'status' => 0,
+)
+array (
+  'id' => 5,
+  'name' => 'admin',
+  'password' => NULL,
+  'reg_time' => 0,
+  'ip_address' => '127.0.0.1',
+  'status' => 0,
+)
